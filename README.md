@@ -27,7 +27,4 @@ Track your dreams, one day at a time.
 
 
 ## 🚀 Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/YoshaMilestep.git
+download the zip file and uzip it

@@ -25,6 +25,9 @@ Track your dreams, one day at a time.
 # 2.BillCalculator 💰
 Minimal bill caclulator built in Java (Android).
 Calculate total price with tax.
+---
+
+## 📱About the app
 
 **BillCalculator** is a clean, dark-themed Bill Caclculator designed to help users calculate the total bill with tax.
 

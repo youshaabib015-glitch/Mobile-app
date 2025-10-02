@@ -5,14 +5,6 @@ Minimal motivational day counter built in Java (Android).
 Track your dreams, one day at a time.
 
 ---
-
-
-
-
-# 2.BillCalculator 💰
-Minimal bill caclulator built in Java (Android).
-Calculate total price with tax.
-
 ## 📱 About the App
 
 **Yosha Milestep** is a clean, dark-themed countdown tracker designed to help users stay focused on personal goals, events, and milestones. Whether you're counting days until an exam, a launch, or a life moment—this app turns time into motivation.
@@ -30,12 +22,9 @@ Calculate total price with tax.
 ---
 ---
 
-
-
-
-
-
-
+# 2.BillCalculator 💰
+Minimal bill caclulator built in Java (Android).
+Calculate total price with tax.
 
 **BillCalculator** is a clean, dark-themed Bill Caclculator designed to help users calculate the total bill with tax.
 

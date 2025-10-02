@@ -19,7 +19,7 @@ Track your dreams, one day at a time.
 
 ## 🖼️ Screenshots
 <img width="442" height="665" alt="image" src="https://github.com/user-attachments/assets/436d5d02-37bf-41c1-9f52-40722c42f403" />
----
+
 ---
 
 # 2.BillCalculator 💰

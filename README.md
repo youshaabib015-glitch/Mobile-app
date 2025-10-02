@@ -5,6 +5,10 @@ Minimal motivational day counter built in Java (Android).
 Track your dreams, one day at a time.
 
 ---
+
+
+
+
 #2.BillCalculator 💰
 Minimal bill caclulator built in Java (Android).
 Calculate total price with tax.
@@ -25,12 +29,18 @@ Calculate total price with tax.
 <img width="442" height="665" alt="image" src="https://github.com/user-attachments/assets/436d5d02-37bf-41c1-9f52-40722c42f403" />
 ---
 ---
+
+
+
+
+
 **BillCalculator** is a clean, dark-themed Bill Caclculator designed to help users calculate the total bill with tax.
 
  ## ⚙️ Features
- -💵 Input price of the items
- -🚖 Input tax
- -➕ Total result will show  
+  
+  -💵 Input price of the items
+  -🚖 Input tax
+  -➕ Total result will show  
 
 ## 🖼️ Sceenshot
 <img width="442" height="670" alt="image" src="https://github.com/user-attachments/assets/6172a188-320b-4919-a491-c75b8a2a413c" />
